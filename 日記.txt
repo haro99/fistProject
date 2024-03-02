@@ -15,4 +15,5 @@ Unity‚ÌŽÀ–±‚à‚Ç‚ñ‚Ç‚ñÏ‚ñ‚Å‚¢‚¢Š´‚¶‚É‚È‚Á‚Ä‚«‚½API‚àRequest‚·‚é‘¤‚àƒŒƒXƒ|ƒ“ƒX‘¤‚
 FX•sˆÀ‚¾‚¯‚Ç“ü‚è‚½‚Ä‚Ìl‚Í‚Ý‚ñ‚È‚»‚¤‚¾‚©‚ç‹C‚É‚µ‚È‚­‚Ä‚à‚¢‚¢‚Á‚ÄŒ¾‚Á‚Ä‚½‚µB
 2023/11/02
 ¡‚ÌˆÄŒ‚ª12ŒŽ‚Åi’»‚ª—Ç‚­‚ÄŠJ”­‘Ì§k¬‚Ì‚½‚ßI—¹‚·‚é‚±‚Æ‚É‚È‚Á‚½AÅ‰‚É‚µ‚Ä‚Í‚¢‚¢ŒoŒ±Ï‚ß‚½‚µFXƒVƒXƒeƒ€‚ÌŽd‘g‚Ý‚ð’m‚ê‚½‚µ‚¢‚¢‘ÌŒ±‚¾
-End
+2024/03/02
+ƒQ[ƒ€ŠJ”­‚ÌŒoŒ±‚ðÏ‚ñ‚ÅˆÄŒ‚ÅÌ—p‚³‚ê‚é‚æ‚¤‚É—Bˆê–³“ñ‚ÌƒXƒLƒ‹‚ð‚µ‚Ä‚¢‚«‚½‚¢AƒRƒ“ƒVƒ…[ƒ}[ŠJ”­‚âVRŠJ”­‚ð‚µ‚Ä‚¢‚«‚½‚¢‚Ü‚½ƒAƒ“ƒŠƒAƒ‹ƒGƒ“ƒWƒ“‚Å‚àŠJ”­‚Å‚«‚é‚æ‚¤‚É­‚µ‚¸‚ÂƒAƒ“ƒŠƒAƒ‹‚Å‚àì‚Á‚½ƒQ[ƒ€‚ðƒAƒs[ƒ‹‚µ‚Ä‚¢‚«‚½‚¢A‚Ü‚½Šî–{î•ñ‹ZpŽÒ‚ÌŽ‘Ši‚à‚Å‚«‚ê‚ÎŽæ‚è‚½‚¢
